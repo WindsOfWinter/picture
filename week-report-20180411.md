@@ -5,9 +5,8 @@
 ### 1.调整特征排列顺序
 
 * 调整前（按完成次数排序）：
-* ![](https://github.com/WindsOfWinter/picture/blob/master/previous.png)
 * 调整后（按相似度排序）：
-* ![](https://github.com/WindsOfWinter/picture/blob/master/after.png)
+* ![](https://github.com/WindsOfWinter/picture/blob/master/compare.png)
 
 ### 2.寻找合适的分组数目
 * k=20：共270个特征可被利用，分为63组
