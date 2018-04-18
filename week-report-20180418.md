@@ -12,12 +12,15 @@
 * 线性回归，W = [5, 3, 2] ; b = 8
 
 	初始化 W[0] = 4, b = 7: 
+
 	![](https://github.com/WindsOfWinter/picture/blob/master/p1.png)
 
 	初始化 W = [5.1, 2, 1.5], b = 6:
+
 	![](https://github.com/WindsOfWinter/picture/blob/master/p2.png)
 
 	随机初始化（-1到1）：
+
 	![](https://github.com/WindsOfWinter/picture/blob/master/p3.png)
 
 * 只初始化一部分参数，可能结果还没有随机初始化好？
